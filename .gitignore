@@ -1,0 +1,13 @@
+.vscode
+
+*.pyc
+*.user
+*.filters
+
+
+/interface/C_Interface/.vs
+/interface/C_Interface/Debug
+/interface/C_Interface/x64/Debug
+/interface/C_Interface/SystemInfo/Debug
+/interface/C_Interface/SystemInfo/Debug
+/interface/C_Interface/SystemInfo/x64/Debug

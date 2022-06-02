@@ -1,0 +1,18 @@
+JSONfilemanager：JSON做基类
+
+两个继承
+
+get post->传
+
+<- TLS1.2 + token（RSA208，random->sha256）
+
+web: ui: mdui
+
+
+
+前后端分离
+
+
+
+questions: AddressBind
+	端口：web:
